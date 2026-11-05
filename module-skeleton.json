@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-tax-nextjs",
+  "capabilityKey": "planned:ecommerce:tax",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-tax-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/tax.md",
+  "presentationPlan": "projects/ecommerce/nextjs/tax.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
